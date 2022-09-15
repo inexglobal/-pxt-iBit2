@@ -1,1 +1,1 @@
-# -pxt-iBit2
+# pxt-iBit2
