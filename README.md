@@ -1,4 +1,4 @@
-# iBIT block package for i-BIT robot kit
+# iBIT extension block package for i-BIT robot kit
 
 powered by micro:bit
 
